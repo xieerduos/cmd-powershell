@@ -1,28 +1,28 @@
 ### win10常用的快捷键
 
-```w
-win  +  r   调出 运行，输入cmd 或者 powershell  即可打开 命令 窗口
-win  +  S  激活Cortana
-win  +  C  语音激活Cortana
-win  +  A  激活操作中心
+```java
+Win  +  R   调出 运行，输入cmd 或者 powershell  即可打开 命令 窗口
+Win  +  S  激活Cortana
+Win  +  C  语音激活Cortana
+Win  +  A  激活操作中心
 
-win  +  D  激活操作中心
-win  +  Tab  激活任务视图
-win  +  E    打开文件管理器
+Win  +  D  激活操作中心
+Win  +  Tab  激活任务视图
+Win  +  E    打开文件管理器
 
-win  +  L    锁屏
-win  +  X    打开开始菜单，打开高级用户功能
+Win  +  L    锁屏
+Win  +  X    打开开始菜单，打开高级用户功能
 
-win  + Ctrl + D 创建一个虚拟桌面
-win  + Ctrl + F4 关闭虚拟桌面
-win  + Ctrl + 左/右  切换虚拟桌面
-win  + 1/2/3   打开任务栏中固定的程序，1代表任务栏中的第一个应用图标
+Win  + Ctrl + D 创建一个虚拟桌面
+Win  + Ctrl + F4 关闭虚拟桌面
+Win  + Ctrl + 左/右  切换虚拟桌面
+Win  + 1/2/3   打开任务栏中固定的程序，1代表任务栏中的第一个应用图标
 
-win  + e   打开文件管理文件夹
-alt  + f4    关闭当前活动窗口
-前面的 $ 代表的是当前是命令行模式运行后面的命令
+Win  + E   打开文件管理文件夹
+Alt  + F4    关闭当前活动窗口
 ```
 ### win10常用的命令
+#### 前面的 $ 代表的是当前是命令行模式运行后面的命令
 ```s
 $  cd  desktop            切换到桌面
 $  md  my-example   创建一个 my-example
